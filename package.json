@@ -1,0 +1,19 @@
+{
+  "name": "component-lib-test",
+  "version": "0.1.0",
+  "description": "just a test",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermelaranja/react-component-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermelaranja/react-component-test/issues"
+  },
+  "homepage": "https://github.com/guilhermelaranja/react-component-test#readme"
+}
